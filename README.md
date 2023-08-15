@@ -4,3 +4,4 @@ The navigation bar consists of a non-interactive menu button, a brand logo, and 
 
 This website is linked to a CMS site called Contentful via API. Contenful allows users to add or remove products easily through their platform without the need to perform any changes to the original coding structure of the website. 
 
+Here's the link to my website: https://timothyytl.github.io/simple-ecom-site/
