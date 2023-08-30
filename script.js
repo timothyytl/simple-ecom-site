@@ -240,7 +240,6 @@ function showCart() {
     cartOverlay.classList.add('transparentBcg')
     cartDOM.classList.add('showCart')
 }
-showCart()
 
 
 
